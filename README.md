@@ -11,9 +11,9 @@ Deliverable 2:
 
 We ran a PCA model with 3 principal components and then merged the data into a dataframe.
 
-![image2](https://github.com/Ajsforlife/Cryptocurrencies/blob/main/pictures/deliverable%203.png)
-
 Deliverable 3:
+
+![image2](https://github.com/Ajsforlife/Cryptocurrencies/blob/main/pictures/deliverable%203.png)
 
 ![image3](https://github.com/Ajsforlife/Cryptocurrencies/blob/main/pictures/deliverable%203-2.png)
 
